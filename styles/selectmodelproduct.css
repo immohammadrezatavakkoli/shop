@@ -1,0 +1,40 @@
+.MuiInputBase-root {
+    font-family: Sans !important;
+    border: hidden !important;
+    box-shadow: none !important;
+    outline: hidden !important;
+    background-color: #1A1A1A !important;
+}
+
+.MuiSelect-select {
+    color: #C3C4C5 !important;
+    font-size: 0.75rem !important;
+}
+
+.MuiSvgIcon-root {
+    color: #C3C4C5 !important;
+    font-size: 1.5rem !important;
+}
+
+.MuiOutlinedInput-notchedOutline {
+    border: hidden !important;
+}
+
+.MuiPaper-root  {
+    background-color: #1A1A1A !important;
+    direction: rtl !important;
+}
+
+.MuiButtonBase-root {
+    font-family: Sans !important;
+    color: #C3C4C5 !important;
+    font-size: 0.75rem !important;
+}
+
+.MuiButtonBase-root:hover , .MuiButtonBase-root:active {
+    background-color: #242424 !important;
+}
+
+.MuiButtonBase-root:focus {
+    background-color: #242424 !important;
+}
