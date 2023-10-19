@@ -22,6 +22,14 @@ _Added in v 2.0 :_
 
 ---
 
+[![Video demo ]]()
+
+[![Video demo ]](https://github.com/immohammadrezatavakkoli/shop/assets/100797809/69f2321e-73c3-49bd-9dbe-b8713296876c)
+
+[![Video demo ]](https://github.com/immohammadrezatavakkoli/shop/assets/100797809/d0538753-0f52-4954-8c36-c0c2ea52a85a)
+
+---
+
 **_Preview_**
 
 ![00](https://github.com/ozvoll00/coffeeshop/assets/100797809/17709b7a-c2d5-423d-b0dc-4e2a886c1874)
