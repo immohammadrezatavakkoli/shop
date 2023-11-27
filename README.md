@@ -15,6 +15,17 @@ _v 1.0 :_
 - _React scroll top_
 - _Json server_
 
+**_Added in v 2.0 :_**
+
+**_Create and add documents :_**
+
+- _Robots.txt_
+- _sitemap.xml_
+- __document.js_
+
+**_Creation and development of Api in next js and removal of json server_**
+
+
 ---
 
 [![Video demo ]](https://github.com/immohammadrezatavakkoli/shop/assets/100797809/da4a42d2-921f-4643-bb8f-403e6dd113d3)
