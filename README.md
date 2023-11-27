@@ -23,7 +23,7 @@ _v 1.0 :_
 - _sitemap.xml_
 - __document.js_
 
-**_Creation and development of API in Next.js and removal of json server_**
+**_Creation and development of API in Next.js and removal of json server._**
 
 
 ---
