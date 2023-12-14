@@ -30,6 +30,7 @@ _v 1.0 :_
 - _Jsonwebtoken_
 - _Cookie_
 - _Bcryptjs_
+- _Yup_
 
 **_Creation and development of API in Next.js and removal of json server._**
 
