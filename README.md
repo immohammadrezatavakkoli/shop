@@ -24,6 +24,12 @@ _v 1.0 :_
 - _Robots.txt_
 - _sitemap.xml_
 - __document.js_
+- _Formik_
+- _Mongoose_
+- _Mongodb_
+- _Jsonwebtoken_
+- _Cookie_
+- _Bcryptjs_
 
 **_Creation and development of API in Next.js and removal of json server._**
 
