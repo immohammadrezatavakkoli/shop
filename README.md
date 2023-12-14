@@ -31,6 +31,8 @@ _v 1.0 :_
 - _Cookie_
 - _Bcryptjs_
 - _Yup_
+- _Next images_
+- _Sharp_
 
 ---
 
