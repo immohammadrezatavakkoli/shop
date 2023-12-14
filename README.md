@@ -17,6 +17,8 @@ _v 1.0 :_
 
 **_Added in v 2.0 :_**
 
+- _React toolkit_
+
 **_Create and add documents :_**
 
 - _Robots.txt_
