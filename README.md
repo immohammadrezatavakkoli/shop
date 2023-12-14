@@ -32,9 +32,6 @@ _v 1.0 :_
 - _Bcryptjs_
 - _Yup_
 
-**_Creation and development of API in Next.js and removal of json server._**
-
-
 ---
 
 [![Video demo ]](https://github.com/immohammadrezatavakkoli/shop/assets/100797809/da4a42d2-921f-4643-bb8f-403e6dd113d3)
