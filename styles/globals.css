@@ -1,0 +1,33 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  @font-face {
+    font-family: 'Sans';
+    src: 
+    url('../public/font/Sans a4fran3.ttf') format('ttf'),
+    url('../public/font/Sans a4fran3.woff') format('woff');
+    font-display: swap
+  }
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  font-family: Sans;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+html {
+  scrollbar-width: none;
+ -ms-overflow-style: none;
+}
+
+html::-webkit-scrollbar {
+ display: none;
+}
