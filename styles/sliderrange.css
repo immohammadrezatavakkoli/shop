@@ -1,0 +1,17 @@
+.MuiSlider-rail {
+  background-color: #c3c4c5 !important;
+}
+
+.MuiSlider-thumb,
+.MuiSlider-track {
+  color: #fbcb07 !important;
+}
+
+.ant-popover-title {
+  display: none;
+}
+
+.ant-popover-inner-content {
+  color: #1a1a1a !important;
+  font-size: 0.65rem !important;
+}
