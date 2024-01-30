@@ -14,7 +14,7 @@ const Product = ({ data }) => {
   return (
     <>
       <Head>
-        <title>&lrm;</title>
+        <title>{data.product.title}</title>
         <link rel="icon" href="/" />
       </Head>
       <ProductDetail product={data.product} />

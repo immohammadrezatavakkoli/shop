@@ -15,7 +15,7 @@ const Watch = ({ data , filteredData }) => {
   return (
     <>
       <Head>
-        <title>&lrm;</title>
+        <title>ساعت هوشمند</title>
         <link rel="icon" href="/" />
       </Head>
       <div className="w-full h-screen flex flex-col justify-start items-center bg-[#242424] pt-32 px-5">

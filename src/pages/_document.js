@@ -4,7 +4,10 @@ class MyDocument extends Document {
     render() {
         return (
             <Html lang="fa" dir="rtl">
-                <Head />
+                <Head>
+                    <meta name="author" content="Reza Tavakkoli" />
+                    <meta name="googlebot" content="noarchive" />
+                </Head>
                 <body>
                     <Main />
                     <NextScript />        

@@ -16,6 +16,7 @@
     "antd": "^5.8.4",
     "bcryptjs": "^2.4.3",
     "cookie": "^0.6.0",
+    "create-vite": "^5.1.0",
     "formik": "^2.4.5",
     "mongoose": "^8.0.3",
     "next": "^13.5.6",

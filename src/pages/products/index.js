@@ -18,7 +18,7 @@ const Products = ({ data }) => {
   return (
     <>
       <Head>
-        <title>&lrm;</title>
+        <title>همه محصولات</title>
         <link rel="icon" href="/" />
       </Head>
       <div className="w-full h-auto flex flex-col justify-start items-center bg-[#242424] pt-32 px-5">
